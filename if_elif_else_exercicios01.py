@@ -16,7 +16,7 @@ elif opcao == "2":
     conta = 2.5
 
 if conta == 0:
-    print("Entre com a porra da opção correta, por favor")
+    print("Entre com a opção correta, por favor")
 
 else:
     print("Sua conta é: R$", conta)
